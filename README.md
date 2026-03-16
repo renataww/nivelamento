@@ -1,0 +1,1 @@
+Não ser uma completa inutil com tecnologia,e uma velha que nao sabe nem usar o google. Nunca fiz isso,mas sei que é necessario para muitas oportunidades no mercado de trabalho atual. Não pretendo ser uma desenpregada que vai morrerde fome na rua.Mas acho que vai ser bemlegal aprender algo novo mesmo não sendo fã de TI ou coisas do tipo.
