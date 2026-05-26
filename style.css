@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+}
+
+header{ 
+    border-bottom: solid 2px slateblue;
+    padding: 20px;
+    font-size: 32px;
+    color:cornflowerblue;
+}
